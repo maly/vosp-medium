@@ -2,8 +2,8 @@
 name: "Školní listy"
 title: "Školní listy"
 description: "Publicistika učí na vlastní kůži"
-logo: 'assets/images/vosplogo.svg'
-favicon: 'assets/images/vosplogo.png'
+logo: 'assets/images/vosplogo-w.svg'
+favicon: 'assets/images/vosplogo-w.png'
 baseurl: /
 # google_analytics: ''
 # disqus: 'demowebsite'
